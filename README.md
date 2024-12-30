@@ -2,7 +2,7 @@
 
 [![](https://visitcount.itsvg.in/api?id=nikhil-dev-395&icon=6&color=5)](https://visitcount.itsvg.in)
 
-🔭 I’m currently working on <a href="https://chronos-royal.netlify.app/">chronis</a><br><br>🌱 I’m currently learning dsa , kafka ,docker<br><br>👨‍💻 All of my projects are available at https://portfolio-nikhil-iota.vercel.app/<br><br>📫 How to reach me <a href="nikhilw395@gmail.com">nikhilw395@gmail.com</a>
+🔭 I’m currently working on <a href="https://chronos-royal.netlify.app/">chronos</a><br><br>🌱 I’m currently learning dsa , kafka ,docker<br><br>👨‍💻 All of my projects are available at https://portfolio-nikhil-iota.vercel.app/<br><br>📫 How to reach me <a href="nikhilw395@gmail.com">nikhilw395@gmail.com</a>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikhil-wankhade-3494b3234) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/users/18123120/nikhil) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/NikhilW37515390) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@NikhilWankhade-l9z) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Nike18) 
