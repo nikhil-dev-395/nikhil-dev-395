@@ -1,7 +1,23 @@
 <div align="center">
   
-  <!-- Animated Welcome Banner -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=👋+Hi%2C+I'm+Nikhil+Wankhade;🚀+Full+Stack+Developer;⚡+Scalable+Systems+Engineer;💡+Backend+Focused" alt="Typing SVG" />
+# 👋 Hello, I'm Nikhil
+
+## 💡 About Me
+I am a passionate developer with experience in building dynamic web applications. I love to explore new technologies and continuously improve my skills.
+
+## 🛠️ Technologies & Tools
+- **Languages:** JavaScript, Python, Java
+- **Frameworks:** React, Node.js, Flask
+- **Databases:** MongoDB, PostgreSQL
+- **Others:** Git, Docker, CI/CD
+
+## 🌎 Connect with me
+- [LinkedIn](https://www.linkedin.com/in/nikhil-dev-395)
+- [GitHub](https://github.com/nikhil-dev-395)
+
+## 🎠 Fun Facts
+- I am a fan of open-source contributions.
+- I enjoy learning about artificial intelligence and machine learning.
 
   <p>
     <img src="https://komarev.com/ghpvc/?username=nikhil-dev-395&label=Profile%20Views&color=00D9FF&style=flat-square" alt="Profile views" />
