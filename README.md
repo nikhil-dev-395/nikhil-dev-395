@@ -42,12 +42,12 @@ const nikhil = {
 
 ### ⚙️ Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,hono,python&theme=dark" />
 </p>
 
 ### 🗄️ Database & Cache
 <p>
-  <img src="https://skillicons.dev/icons?i=postgresql,redis,prisma&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=postgresql,mongodb,redis,prisma&theme=dark" />
 </p>
 
 ### 🔧 DevOps & Tools
@@ -61,11 +61,10 @@ const nikhil = {
 
 <div align="center">
 
-<a href="https://github.com/nikhil-dev-395">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nikhil-dev-395&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d0d0d&title_color=a78bfa&icon_color=7c3aed&text_color=ffffff&ring_color=7c3aed"/>
-  &nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhil-dev-395&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=a78bfa&text_color=ffffff"/>
-</a>
+<!-- Using github-stats.vercel.app as reliable alternative -->
+<img height="180em" src="https://github-readme-stats-eight-tau-63.vercel.app/api?username=nikhil-dev-395&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d0d0d&title_color=a78bfa&icon_color=7c3aed&text_color=ffffff&ring_color=7c3aed"/>
+&nbsp;
+<img height="180em" src="https://github-readme-stats-eight-tau-63.vercel.app/api/top-langs/?username=nikhil-dev-395&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=a78bfa&text_color=ffffff"/>
 
 </div>
 
@@ -100,7 +99,16 @@ const nikhil = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=nikhil-dev-395&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=a78bfa&icon_color=7c3aed&text_color=ffffff&custom_title=Nikhil%27s%20Commit%20History" />
+<!-- GitHub Profile Summary Cards — reliable & beautiful -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nikhil-dev-395&theme=tokyonight" width="100%"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nikhil-dev-395&theme=tokyonight" height="160em"/>
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nikhil-dev-395&theme=tokyonight" height="160em"/>
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nikhil-dev-395&theme=tokyonight" height="160em"/>
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nikhil-dev-395&theme=tokyonight&utcOffset=5.5" height="160em"/>
 
 </div>
 
