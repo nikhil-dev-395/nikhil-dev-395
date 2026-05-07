@@ -42,7 +42,7 @@ const nikhil = {
 
 ### ⚙️ Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,hono,python&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,honojs,python&theme=dark" />
 </p>
 
 ### 🗄️ Database & Cache
