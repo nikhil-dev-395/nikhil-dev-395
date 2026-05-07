@@ -47,7 +47,7 @@ const nikhil = {
 
 ### 🗄️ Database & Cache
 <p>
-  <img src="https://skillicons.dev/icons?i=postgresql,redis,prisma&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=postgresql,mongodb,redis,prisma&theme=dark" />
 </p>
 
 ### 🔧 DevOps & Tools
