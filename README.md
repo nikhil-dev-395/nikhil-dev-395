@@ -11,8 +11,8 @@
                                               |
                                               |   # Reach me out using...
                                               |   ❯ mail -s "Hello" nikhilwankhade1.work@gmail.com
-                                              |   ❯ xdg-open "https://www.linkedin.com/in/nikhil-wankhade-3494b3234/"
-                                              |   ❯ xdg-open "https://github.com/nikhil-dev-395"
+                                              |   ❯ xdg-open "linkedin.com/in/nikhil-wankhade-3494b3234/"
+                                              |   ❯ xdg-open "github.com/nikhil-dev-395"
 ```
 
 <p align="center">
