@@ -1,1 +1,27 @@
-[![GitHub Stats Terminal](https://github-stats-terminal-style-five.vercel.app/api/stats?username=nikhil-dev-395&theme=nord&headerStyle=windows&typingSpeed=93&hostname=github.com&commands=whoami%2Cneofetch%2Clanguages%2Cuptime%2Ctop-repos%2Cps%2Cexit)](https://github.com/nikhil-dev-395)
+```
+                                              |
+                                              |   ❯ echo $ROLE
+ ____  _   _ ___ _     ____                  |   Software Developer
+| __ )| | | |_ _| |   |  _ \                  |
+|  _ \| | | || || |   | | | |                 |   ❯ uname -o
+| |_) | |_| || || |___| |_| |                 |   GNU/Linux
+|____/ \___/|___|_____|____/                  |
+                                              |   ❯ whoami
+                                              |   nikhil
+                                              |
+                                              |   # Reach me out using...
+                                              |   ❯ mail -s "Hello" nikhilwankhade1.work@gmail.com
+                                              |   ❯ xdg-open "https://www.linkedin.com/in/nikhil-wankhade-3494b3234/"
+                                              |   ❯ xdg-open "https://github.com/nikhil-dev-395"
+```
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nikhil-dev-395&label=Profile%20views&color=0e75b6&style=flat" alt="nikhil-dev-395" />
+</p>
+
+<h2 align="center">Skills</h2>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,redis,tailwind,azure,docker,git,linux&theme=dark" alt="Skills Icons" />
+</p>
+
+
