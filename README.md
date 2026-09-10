@@ -1,18 +1,18 @@
 ```
-                                              |
-                                              |   ❯ echo $ROLE
- ____  _   _ ___ _     ____                  |   Software Developer
-| __ )| | | |_ _| |   |  _ \                  |
-|  _ \| | | || || |   | | | |                 |   ❯ uname -o
-| |_) | |_| || || |___| |_| |                 |   GNU/Linux
-|____/ \___/|___|_____|____/                  |
-                                              |   ❯ whoami
-                                              |   nikhil
-                                              |
-                                              |   # Reach me out using...
-                                              |   ❯ mail -s "Hello" nikhilwankhade1.work@gmail.com
-                                              |   ❯ xdg-open "linkedin.com/in/nikhil-wankhade-3494b3234/"
-                                              |   ❯ xdg-open "github.com/nikhil-dev-395"
+                                     |
+                                     |   ❯ echo $ROLE
+ ____  _   _ ___ _     ____          |   Software Developer
+| __ )| | | |_ _| |   |  _ \         |
+|  _ \| | | || || |   | | | |        |   ❯ uname -o
+| |_) | |_| || || |___| |_| |        |   GNU/Linux
+|____/ \___/|___|_____|____/         |
+                                     |   ❯ whoami
+                                     |   nikhil
+                                     |
+                                     |   # Reach me out using...
+                                     |   ❯ mail -s "Hello" nikhilwankhade1.work@gmail.com
+                                     |   ❯ xdg-open "linkedin.com/in/nikhil-wankhade-3494b3234/"
+                                     |   ❯ xdg-open "github.com/nikhil-dev-395"
 ```
 
 <p align="center">
